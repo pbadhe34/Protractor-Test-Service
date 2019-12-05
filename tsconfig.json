@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "inlineSourceMap": true,
+    "declaration": false,
+    "noImplicitAny": false
+  },
+  "exclude": [
+    "node_modules",
+    "node_modules/protractor/built/runner.d.ts",
+    "node_modules/protractor/built/index.d.ts"          
+  ]
+}
